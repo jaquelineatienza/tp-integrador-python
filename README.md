@@ -7,8 +7,6 @@
 
     El uso de Inteligencia Artificial en este proyecto no solo agrega valor técnico al modelo, sino que se alinea con los objetivos estratégicos del marketing financiero moderno: segmentar, personalizar y optimizar. De esta forma, se logra una propuesta más eficiente y efectiva para captar clientes interesados en productos de ahorro, utilizando la tecnología como herramienta clave de decisión.
 
----
-
 # Proyecto de Predicción de Préstamos Personales
 
 Este proyecto permite predecir si un cliente aceptará un préstamo personal basado en sus datos financieros y personales. Cuenta con:
@@ -109,4 +107,5 @@ Esto levantará el Metro Bundler y podrás probar la app.
   "report": { ... }
 }
 ```
-"# tp-integrador-python" 
+
+"# tp-integrador-python"
